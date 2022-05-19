@@ -1,0 +1,8 @@
+﻿Traveller1;Hotel6;Type-2R;3
+Traveller1;Hotel7;Type-1R;2
+Traveller2;Hotel7;Type-2R;1
+Traveller2;Hotel7;Type-1R;1
+Traveller1;Hotel6;Type-3R;4
+Traveller3;Hotel6;Type-3R;1
+Traveller3;Hotel6;Type-1R;7
+Traveller2;Hotel6;Type-3R;7

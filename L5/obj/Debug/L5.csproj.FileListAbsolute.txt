@@ -1,0 +1,12 @@
+C:\Users\WhaLeS\source\repos\L5\L5\bin\Debug\L5.exe.config
+C:\Users\WhaLeS\source\repos\L5\L5\bin\Debug\L5.exe
+C:\Users\WhaLeS\source\repos\L5\L5\bin\Debug\L5.pdb
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.csproj.AssemblyReference.cache
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.Main.resources
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.Properties.Resources.resources
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.csproj.GenerateResource.cache
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.exe
+C:\Users\WhaLeS\source\repos\L5\L5\obj\Debug\L5.pdb
+C:\Users\WhaLeS\source\repos\L5\L5\bin\Debug\U14a.txt
+C:\Users\WhaLeS\source\repos\L5\L5\bin\Debug\U14b.txt

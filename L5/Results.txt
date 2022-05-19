@@ -1,0 +1,51 @@
+
+Travellers
+--------------------------------------------------------------------------
+|       Name      |    Hotel    |     Type      | Nights |
+--------------------------------------------------------------------------
+| Traveller1      | Hotel6     | Type-2R    | 3         |
+| Traveller1      | Hotel7     | Type-1R    | 2         |
+| Traveller2      | Hotel7     | Type-2R    | 1         |
+| Traveller2      | Hotel7     | Type-1R    | 1         |
+| Traveller1      | Hotel6     | Type-3R    | 4         |
+| Traveller3      | Hotel6     | Type-3R    | 1         |
+| Traveller3      | Hotel6     | Type-1R    | 7         |
+| Traveller2      | Hotel6     | Type-3R    | 7         |
+--------------------------------------------------------------------------
+
+Hotels
+------------------------------------------------------------
+|      Hotel       |       Type        |  Price |
+------------------------------------------------------------
+| Hotel1          | Type-2R         | 90.00 |
+| Hotel2          | Type-1R         | 45.00 |
+| Hotel3          | Type-3R         | 50.66 |
+| Hotel4          | Type-4R         | 70.55 |
+| Hotel4          | Type-3R         | 10.55 |
+| Hotel5          | Type-4R         | 60.00 |
+| Hotel5          | Type-5R         | 80.00 |
+------------------------------------------------------------
+
+There are no hotels chosen by travellers
+List of Hotels NOT chosen by travellers
+------------------------------------------------------------
+|      Hotel       |       Type        |  Price |
+------------------------------------------------------------
+| Hotel1          | Type-2R         | 90.00 |
+| Hotel2          | Type-1R         | 45.00 |
+| Hotel3          | Type-3R         | 50.66 |
+| Hotel4          | Type-4R         | 70.55 |
+| Hotel4          | Type-3R         | 10.55 |
+| Hotel5          | Type-4R         | 60.00 |
+| Hotel5          | Type-5R         | 80.00 |
+------------------------------------------------------------
+
+List of Travellers with most nights
+------------------------------------
+|      Name    |  Nights |
+------------------------------------
+| Traveller1   | 9          |
+| Traveller2   | 9          |
+------------------------------------
+
+There are no such travellers

@@ -1,0 +1,7 @@
+﻿Hotel1;Type-2R;90.00
+Hotel2;Type-1R;45.00
+Hotel3;Type-3R;50.66
+Hotel4;Type-4R;70.55
+Hotel4;Type-3R;10.55
+Hotel5;Type-4R;60.00
+Hotel5;Type-5R;80.00
